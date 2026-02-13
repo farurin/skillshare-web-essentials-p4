@@ -1,0 +1,41 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    background-image: linear-gradient(to bottom right, #00F490, #00BBC9);
+}
+
+h1 {
+    font-family: "Abril Fatface", serif;
+}
+
+.jumbotron {
+    background-color: rgba(250, 235, 215, 0);
+}
+
+.drop-shadow {
+    text-shadow: 5px 2px 5px rgba(0, 0, 0, 0.409);
+}
+
+.lead {
+    color: white;
+    font-size: 2.2rem;
+}
+
+.btn-outline-light {
+    border-color: white;
+}
+
+.btn-outline-light:hover {
+    background-color: rgba(255, 255, 255, 0.525);
+    color: white;
+}
+
+.btn-primary {
+    background-color: #00BBC9;
+    border-color: #00BBC9;
+}
+
+.btn-primary:hover {
+    background-color: #00F490;
+    border-color: #00F490;
+}
